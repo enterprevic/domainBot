@@ -99,11 +99,6 @@ These files are generated during runtime and are excluded from version control:
 - `api_usage.json`: Tracks API call usage
 - Various CSV files for specific domain categories
 
-### Utility Scripts
-These scripts may be for different projects or specific one-time tasks:
-- `clean.py`: Data cleaning utilities
-- `e.py`: URL keyword extraction utility
-
 ## License
 
 MIT
