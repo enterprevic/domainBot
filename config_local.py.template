@@ -1,0 +1,12 @@
+"""
+Local configuration file for ngDomainBot.
+Copy this file to config_local.py and add your API keys.
+config_local.py will be ignored by git.
+"""
+
+# Your RapidAPI key for the Domainr API
+RAPIDAPI_KEY = "YOUR_RAPIDAPI_KEY_HERE"
+
+# Override any other settings from config.py if needed
+# API_CALL_LIMIT = 5000
+# DEFAULT_TLD = "com"
