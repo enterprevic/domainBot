@@ -5,7 +5,7 @@ config_local.py will be ignored by git.
 """
 
 # Your RapidAPI key for the Domainr API
-RAPIDAPI_KEY = "YOUR_RAPIDAPI_KEY_HERE"
+RAPIDAPI_KEY = "YOUR_RAPIDAPI_KEY"
 
 # Override any other settings from config.py if needed
 # API_CALL_LIMIT = 5000
