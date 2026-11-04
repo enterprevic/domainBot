@@ -21,7 +21,6 @@ ngDomainBot helps you discover available .ng domain names through various strate
   - `finance.py`: Finance-specific domain finder
   - `maternity.py`: Maternity/parenting domain finder
   - `blooket.py`: Educational domain checker
-  - `clean.py`: Data cleaning utilities
   - `pronounce.py`: Pronunciation analysis
 
 ## Requirements
@@ -29,7 +28,6 @@ ngDomainBot helps you discover available .ng domain names through various strate
 - Python 3.7+
 - Required packages:
   - aiohttp
-  - asyncio
   - wordfreq
   - certifi
 
@@ -79,7 +77,7 @@ This project uses the [Domainr API](https://rapidapi.com/domainr/api/domainr) th
 
 1. Sign up for a RapidAPI account
 2. Subscribe to the Domainr API
-3. Replace the `RAPIDAPI_KEY` in the scripts with your own key
+3. Put your key in `config_local.py` (see Installation)
 
 ## Project Structure
 
@@ -101,7 +99,7 @@ These files are generated during runtime and are excluded from version control:
 
 ## License
 
-MIT
+MIT, see [LICENSE](LICENSE)
 
 ## Author
 
