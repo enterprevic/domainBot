@@ -1,4 +1,3 @@
 aiohttp>=3.8.0
-asyncio>=3.4.3
 wordfreq>=2.1.0
 certifi>=2021.10.8
